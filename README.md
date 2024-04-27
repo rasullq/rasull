@@ -1,2 +1,3 @@
 # rasull
-Rasul Babajanov U2010040
+Rasul Babajanov 
+U2010040
